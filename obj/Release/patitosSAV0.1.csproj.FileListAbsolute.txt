@@ -1,0 +1,2 @@
+C:\Users\mell7\Downloads\proyAlgebraMatricesGaussJordan\proyAlgebra\patitosSAV0.1\obj\Release\patitosSAV0.1.csprojAssemblyReference.cache
+C:\Users\mell7\Downloads\proyAlgebraMatricesGaussJordan\proyAlgebra\patitosSAV0.1\obj\Release\patitosSAV0.1.csproj.CoreCompileInputs.cache
